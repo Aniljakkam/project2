@@ -1,0 +1,13 @@
+
+
+.heading{
+    color: aqua;
+    position:  relative;
+    top: 10px;
+    left: 10px;
+    /* margin-left: 20px; */
+    background: linear-gradient(to left,black,white);
+    width: 100px;
+    height: 100px;
+    
+}
